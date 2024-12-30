@@ -49,6 +49,15 @@ h1 {
     list-style-type: none;
 }
 
+/* Individual list items inside menu */
+#menu > li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
 /* Main Content */
 main {
     background-color: lightblue;
