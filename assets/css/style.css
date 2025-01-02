@@ -134,7 +134,7 @@ main {
     justify-content: center;
 }
 
-#benefits-physical > .reasons {
+.reasons {
     margin-bottom: 20px;
     line-height: 20px;
 }
