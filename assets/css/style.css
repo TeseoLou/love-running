@@ -125,7 +125,8 @@ main {
 
 #reasons {
     margin: 20px auto;
-    width: 90% display: flex;
+    width: 90%;
+    display: flex;
 }
 
 #reasons>h2 {
@@ -306,7 +307,6 @@ main {
 
     #logo {
         font-size: 280%;
-        line-hide: 75px;
         margin: 0 0.5;
     }
 
