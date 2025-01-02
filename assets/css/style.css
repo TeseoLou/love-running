@@ -134,6 +134,20 @@ main {
     justify-content: center;
 }
 
+#benefits-physical > .reasons {
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+.reasons > p {
+    padding: 0 20px;
+}
+
+.class > hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
