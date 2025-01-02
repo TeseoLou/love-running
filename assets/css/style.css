@@ -129,6 +129,11 @@ main {
     text-align: center;
 }
 
+#benefits {
+    margin: 20px;
+    justify-content: center;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
